@@ -10,5 +10,5 @@
 - 🚀 Always building, learning, and exploring impactful projects.
 
 - My Tech Stack:
-- 1) Languages- Python, JavaScript, Java, C++, HTML, CSS
+  1) Languages- Python, JavaScript, Java, C++, HTML, CSS
   2) Frameworks and Libraries- React, Flask, Matplotlib, Scikit Learn, Keras
