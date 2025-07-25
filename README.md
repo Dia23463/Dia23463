@@ -11,4 +11,4 @@
 
 - My Tech Stack:
   1) Languages- Python, JavaScript, Java, C++, HTML, CSS
-  2) Frameworks and Libraries- React, Flask, Matplotlib, Scikit Learn, Keras
+  2) Frameworks and Libraries- React, Flask, Matplotlib, TensorFlow, Scikit Learn, Keras
