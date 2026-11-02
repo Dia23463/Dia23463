@@ -23,8 +23,8 @@ Right now I'm taking computer systems, learning how processes and memory work un
 | [RecessionIQ](https://github.com/Dia23463/RecessionIQ) | Dashboard tracking recession signals (CPI, unemployment, the yield curve) from Fed data, plus cross-market correlations from Yahoo Finance. | Next.js, TypeScript, Vercel |
 | [Access Prep](https://github.com/ryanvaby/Access-Prep) | Helps students, immigrants, and freelancers with little or no US credit history prepare for credit card applications: an intake form, a chatbot that explains the process in plain language, and OCR that checks uploaded documents are the right type. 3rd place at Capital One's 2026 Tech Summit. I built the multi-language support. | React, TypeScript, Flask, LangChain, Gemini |
 | [Healthcare deserts](https://github.com/Dia23463/snowflake-healthcare-desert-prediction-btt-project) | Predicts which areas of New York State lack healthcare access, with GenAI summaries of the results. | Python, scikit-learn, Snowflake |
-| [Mutual fund calculator](REPLACE_WITH_REPO_LINK) | Mutual fund calculator using CAPM, with interactive sliders and an AI assistant whose guardrails block financial advice. | React, shadcn/ui, FastAPI, OpenAI |
-| [Kapok](REPLACE_WITH_REPO_LINK) | Offline-first disaster-response app for volunteer teams. Tasks save locally first and sync to Firebase when the signal comes back. Contributed as part of BUILD UMass. | Flutter, Firebase, Hive, BLoC, Mapbox |
+| [Mutual fund calculator](https://github.com/TheRealBKJ/ELS_Technical_Challenge) | Mutual fund calculator using CAPM, with interactive sliders and an AI assistant whose guardrails block financial advice. | React, shadcn/ui, FastAPI, OpenAI |
+| [Kapok](https://github.com/ShreyanshMisra/Kapok) | Offline-first disaster-response app for volunteer teams. Tasks save locally first and sync to Firebase when the signal comes back. Contributed as part of BUILD UMass. | Flutter, Firebase, Hive, BLoC, Mapbox |
 
 ## Tech I use
 
@@ -37,4 +37,5 @@ Right now I'm taking computer systems, learning how processes and memory work un
 ## Find me
 
 - LinkedIn: [in/diasutaria](https://www.linkedin.com/in/diasutaria)
+- To learn what I am curious about: [medium](https://medium.com/@athena.parthenos10621)
 - Happy to talk about backend systems, RAG pipelines, or anything at the intersection of finance and data.
